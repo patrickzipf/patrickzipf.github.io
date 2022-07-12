@@ -7,7 +7,7 @@ redirect_from:
   - "/About"
 ---
 
-{% picture about.jpg %}
+{% picture About-1.jpg %}
 This is an about page that you can configure for your website. 
 
 JekyllExample.com is a sample blog template from [Chris Hammond](https://www.chrishammond.com/)
