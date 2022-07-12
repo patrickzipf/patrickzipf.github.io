@@ -11,6 +11,9 @@ mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
 url: 'https://www.JekyllExample.com'
+
+templatemessage: '<a target="_blank" href="https://www.christoc.com/">Another site from Christoc.com</a>'
+
 # Authors
 authors:
   chris:
