@@ -12,7 +12,7 @@ include: ["_pages"]
 permalink: /:title/
 url: 'https://www.JekyllExample.com'
 
-templatemessage: '<a target="_blank" href="https://www.christoc.com/">Another site from Christoc.com</a>'
+templatemessage: '<a target="_blank" href="https://www.chrishammond.com/">Forked from Chris Hammond</a>'
 
 # Authors
 authors:
