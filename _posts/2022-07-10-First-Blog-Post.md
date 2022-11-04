@@ -8,7 +8,7 @@ categories: [ Tag1 ]
 featured: true
 ---
 
-This is the first blog post using Jekyll.
+This is the first blog post using JekyllExample.com.
 
 > This is a quote inside that first blog post
 
