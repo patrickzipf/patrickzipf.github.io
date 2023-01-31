@@ -7,8 +7,14 @@ image: BlogPost-3.jpg
 categories: [ Jekyll ]
 featured: true
 ---
-
 So you want to get started with Jekyll? Well, you've come to the right place. This post will walk you through the steps to get you going!
 
-Shortly it will be populated with next step information!
+## Get Started
+
+First, you'll need to install Jekyll. You can do this by running the following command:
+
+```bash
+gem install jekyll
+```
+
 
