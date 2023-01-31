@@ -1,3 +1,3 @@
-# ProjectVW.com
+# JekyllExample.com
 
 Nothing to see here.
