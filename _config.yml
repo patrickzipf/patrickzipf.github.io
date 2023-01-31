@@ -1,11 +1,11 @@
 # Site
 name: "JekyllExample.com"
 title: "JekyllExample.com - A sample Jekyll Example website! "
-description: "A sample Jeyll Site!"
+description: "A sample Jekyll Site!"
 logo: 'assets/Logo.png'
 favicon: 'assets/favicon.ico'
 baseurl: ""
-google_analytics:
+google_analytics: # configured for Google Analytics 4
 disqus: 
 mailchimp-list: 
 include: ["_pages"]
