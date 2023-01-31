@@ -1,6 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+{% if jekyll.environment == 'production' %}
+    <!-- Google tag (gtag.js) be sure you're using GA4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', '{{site.google_analytics}}');
+    </script>
+
+{% endif %}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -20,18 +32,7 @@
 
 </head>
 
-{% if jekyll.environment == 'production' %}
-<!-- Google tag (gtag.js) be sure you're using GA4 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', '{{site.google_analytics}}');
-</script>
-
-{% endif %}
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
 	<!-- defer loading of font and font awesome -->
