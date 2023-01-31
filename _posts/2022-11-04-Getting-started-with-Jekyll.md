@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting started with Jekyll
-date: '2022-11-04T10:00:15+00:00'
+date: '2023-01-30T10:00:15+00:00'
 permalink: getting-started-with-jekyll
 image: BlogPost-3.jpg
 categories: [ Jekyll ]
