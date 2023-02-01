@@ -32,8 +32,8 @@ This page is a work in progress, if you find something missing or wrong, let me 
 1. Create a new Organization on GitHub  
     - A free organization account will be sufficient. For our example organization, we will used JekyllExampleWeb (JekyllExample was already taken).  
     - This previously was something I believe was necessary to use GitHub pages, but based on my experience I am not convinced it is required anymore, meaning you can also create repos for GitHub pages under your personal account (ex:ChrisHammond/jekyllexample.github.io)
-2. [Create a Fork of the JekyllExample repository](https://github.com/ChrisHammond/jekyllexample.github.io/fork)  
-    - Create the fork within your new organization that you created in step 1.
+2. [Create a new repository based off the JekyllExample repository](https://github.com/ChrisHammond/jekyllexample.github.io/generate)  
+    - While logged into GitHub, you should see a button that says "Use this template" next to the Code button in the JekyllExample repo, creating on the Use this template button will allow you to create a fork that is disconnected from the original repo and doesn't bring over all the change history.
 3. Rename the repository to match the domain name that you want to use for GitHub Pages  
     - As soon as you fork the repository, you can rename it. You will want to rename it to match the domain name that you want to use for GitHub Pages, for example we use jekyllexample.com, so the repository is jekyllexample.github.io. 
 4. Clone the repository to your local machine for editing  
