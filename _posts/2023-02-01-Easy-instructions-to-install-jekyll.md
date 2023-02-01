@@ -82,3 +82,9 @@ This page is a work in progress, if you find something missing or wrong, let me 
     - You should see your commit that you pushed in step 8, and you should see a workflow that is running (or has ran).
     - After that you should see a second action that is running (or has ran) something like "pages build and deployment"
     - If both of those actions have completed successfully, you should be able to navigate to your custom domain name and see your site.
+13. Next steps! Edit the blog posts in the _posts folder, or delete them and create your own posts.
+    - The easiest way to create a new post is to simply copy and paste one of the existing posts
+        - Rename the file to match the date and title of your post
+        - Edit the file to change the content/title and importantly be sure to update the published date to the dat you want the post to be.
+        - Commit and push your changes to GitHub and you should see your new post on your site after the workflow completes.
+
