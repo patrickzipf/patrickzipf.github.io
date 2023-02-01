@@ -48,28 +48,37 @@ This page is a work in progress, if you find something missing or wrong, let me 
     code SITENAME.github.io
     ```
     - Where SITENAME is the name of your repository that you modified in Step 3. 
-5. Change the _config.yml file
+6. Change the _config.yml file
     - This file has a number of variables for options for your site, such as Title, Description, Author, etc. You will want to customize these to start to brand and name your site.
     - If you're using Google Analytics you can configure the MEASUREMENT ID here as well.
-6. Edit the CNAME file in the root of the repository to match your custom domain name
+7. Edit the CNAME file in the root of the repository to match your custom domain name
     - If you're not using a custom domain name, you can delete this file.
-7. Commit your changes to the GitHub repository and push them.
+8. Commit your changes to the GitHub repository and push them.
     ```bash
     git add .
     git commit -m "Some updated comment about the commit here"
     git push
     ```
     - You may be prompted to configure your GitHub credentials at this point, [here's an approach on how to do that](https://stackoverflow.com/questions/46878457/adding-git-credentials-on-windows).
-8. Configure the repository settings for GitHub Pages and Workflow to allow for deployment
+9. Configure the repository settings for GitHub Pages and Workflow to allow for deployment
     - In the GitHub Repository Settings, you will want to configure the following:
         - Under the GitHub Settings find the GitHub Pages section
         - Under Source choose "Deploy from a branch"
         - Under Branch choose "main" and "/(root)"
-9. Configure your DNS for your domain to point to GitHub pages
+10. Configure your DNS for your domain to point to GitHub pages
     - You will need to do this before step 10 so that GitHub can verify and find your custom domain name configured properly. 
+    - You basically need to setup A records for your domain name that point to the following IP addresses:
+        - 185.199.108.153
+        - 185.199.109.153
+        - 185.199.110.153
+        - 185.199.111.153
     - I use CloudFlare for my domains, so the DNS entries are configured as follows:
     {% picture cloudflaredns.jpg --alt DNS Settings for CloudFlare  %}
     - You would replace jekyllexample.com with your domain in your DNS settings. 
-10. Configure your custom Domain Name
+11. Configure your custom Domain Name
     - Under the GitHub Settings find the GitHub Pages section
     - Under Custom Domain, enter your custom domain name (ex: jekyllexample.com)
+12. Navigate to the Actions tab in the GitHub interface
+    - You should see your commit that you pushed in step 8, and you should see a workflow that is running (or has ran).
+    - After that you should see a second action that is running (or has ran) something like "pages build and deployment"
+    - If both of those actions have completed successfully, you should be able to navigate to your custom domain name and see your site.
