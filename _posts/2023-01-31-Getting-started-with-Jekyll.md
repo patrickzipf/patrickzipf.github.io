@@ -7,7 +7,10 @@ image: BlogPost-3.jpg
 categories: [ Jekyll ]
 featured: true
 ---
-So you want to get started with Jekyll? Well, you've come to the right place. This post will walk you through the steps to get you going!
+So you want to get started with Jekyll? 
+
+Well, you've come to the right place. This post will walk you through the steps to get you going if you're new to Jekyll and want to get it up and running with a clean instance.  
+We recommend if you're brand new to Jekyll though you use our other instructions that utilize this site as a template for you to build your own site, complete with theme and sample content.  
 
 ## Get Started
 
