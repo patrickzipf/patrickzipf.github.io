@@ -58,5 +58,3 @@ git push origin master
 ## Conclusion
 
 And that's it! You've now got a Jekyll site up and running. You can now make some changes and push them to GitHub Pages.
-
-
