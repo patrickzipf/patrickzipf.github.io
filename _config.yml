@@ -1,5 +1,5 @@
-# Site
-# Description: You can change the settings below in order to customize your website.
+# Site Settings
+# You can change the settings below in order to customize your website.
 name: "JekyllExample.com"
 title: "JekyllExample.com - A sample Jekyll Example website! "
 description: "A sample Jekyll Site!"
@@ -7,7 +7,7 @@ logo: 'assets/Logo.png'
 favicon: 'assets/favicon.ico'
 baseurl: ""
 google_analytics: 'G-ZKHV3G3SN8' # configured for Google Analytics 4 MEASUREMENT ID
-disqus: 
+# disqus: 
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/

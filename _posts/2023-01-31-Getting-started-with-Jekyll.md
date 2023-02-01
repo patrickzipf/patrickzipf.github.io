@@ -6,6 +6,7 @@ permalink: getting-started-with-jekyll
 image: BlogPost-3.jpg
 categories: [ Jekyll ]
 featured: true
+comments: false 
 ---
 So you want to get started with Jekyll? 
 

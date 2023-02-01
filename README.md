@@ -1,6 +1,6 @@
 # JekyllExample.com
 
-Nothing to see here yet!
+Nothing to see here yet! Stay tuned!
 
 ### Copyright
 

@@ -6,6 +6,7 @@ permalink: second-blog-post
 image: BlogPost-2.jpg
 categories: [ Tag1 ]
 featured: false
+comments: false 
 ---
 
 This is the second blog post, the difference is that this one is not featured.

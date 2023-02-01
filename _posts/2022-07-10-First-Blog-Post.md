@@ -6,6 +6,7 @@ permalink: first-blog-post
 image: BlogPost-1.jpg
 categories: [ Tag1 ]
 featured: true
+comments: false 
 ---
 
 This is the first blog post using JekyllExample.com.
