@@ -4,7 +4,7 @@ title: Non-featured Blog Post
 date: '2022-11-01T01:00:15+00:00'
 permalink: second-blog-post
 image: BlogPost-2.jpg
-categories: [ Tag1 ]
+categories: [ Sample ]
 featured: false
 comments: false 
 ---

@@ -4,7 +4,7 @@ title: Easy instructions for installing Jekyll
 date: '2023-02-01T10:00:15+00:00'
 permalink: easy-installation-instructions-for-jekyll
 image: BlogPost-4.jpg
-categories: [ Jekyll ]
+categories: [ Jekyll, Tutorial ]
 featured: true
 comments: false 
 ---

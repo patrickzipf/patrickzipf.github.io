@@ -4,7 +4,7 @@ title: Getting started with Jekyll
 date: '2023-01-31T10:00:15+00:00'
 permalink: getting-started-with-jekyll
 image: BlogPost-3.jpg
-categories: [ Jekyll ]
+categories: [ Jekyll, Tutorial ]
 featured: true
 comments: false 
 ---
