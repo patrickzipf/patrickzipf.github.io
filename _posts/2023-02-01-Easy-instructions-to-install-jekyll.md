@@ -10,7 +10,6 @@ comments: false
 ---
 # *This post is still a work in progress as of 2/1/2023*
 
-
 The goal for this blog post is to provide easy instructions for installing Jekyll. 
 
 If you follow these steps, you should be able to create a new Jekyll web site utilizing GitHub and GitHub Pages to host your repository and web site.
@@ -31,7 +30,7 @@ This page is a work in progress, if you find something missing or wrong, let me 
 
 1. Create a new Organization on GitHub  
     - A free organization account will be sufficient. For our example organization, we will used JekyllExampleWeb (JekyllExample was already taken).  
-    - This previously was something I believe was necessary to use GitHub pages, but based on my experience I am not convinced it is required anymore, meaning you can also create repos for GitHub pages under your personal account (ex:ChrisHammond/jekyllexample.github.io)
+    - Creating a new organization for each custom domain name you are going to use makes it easier to setup and manage multiple sites. You theoretically could get by with [one Organization or just multiple projects under your user account](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites), but I find it easier to manage multiple sites this way.
 2. [Create a new repository based off the JekyllExample repository](https://github.com/ChrisHammond/jekyllexample.github.io/generate)  
     - While logged into GitHub, you should see a button that says "Use this template" next to the Code button in the JekyllExample repo, creating on the Use this template button will allow you to create a fork that is disconnected from the original repo and doesn't bring over all the change history.
     - Be sure to check the "Include all branches" option when doing this, otherwise MAIN won't come over and the workflow won't work.
