@@ -34,6 +34,7 @@ This page is a work in progress, if you find something missing or wrong, let me 
     - This previously was something I believe was necessary to use GitHub pages, but based on my experience I am not convinced it is required anymore, meaning you can also create repos for GitHub pages under your personal account (ex:ChrisHammond/jekyllexample.github.io)
 2. [Create a new repository based off the JekyllExample repository](https://github.com/ChrisHammond/jekyllexample.github.io/generate)  
     - While logged into GitHub, you should see a button that says "Use this template" next to the Code button in the JekyllExample repo, creating on the Use this template button will allow you to create a fork that is disconnected from the original repo and doesn't bring over all the change history.
+    - Be sure to check the "Include all branches" option when doing this, otherwise MAIN won't come over and the workflow won't work.
 3. Rename the repository to match the domain name that you want to use for GitHub Pages  
     - As soon as you fork the repository, you can rename it. You will want to rename it to match the domain name that you want to use for GitHub Pages, for example we use jekyllexample.com, so the repository is jekyllexample.github.io. 
 4. Clone the repository to your local machine for editing  
