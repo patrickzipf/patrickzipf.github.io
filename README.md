@@ -15,4 +15,4 @@ If you have questions on the repository, feel free to [jump into our Discussions
 
 ### Copyright
 
-Copyright (C) 2022-2023 Christoc.com, https://www.christoc.com/
+Copyright (C) 2022-2023 [Christoc.com](https://www.christoc.com/)
