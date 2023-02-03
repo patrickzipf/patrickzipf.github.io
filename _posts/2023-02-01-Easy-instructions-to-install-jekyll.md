@@ -8,7 +8,7 @@ categories: [ Jekyll, Tutorial ]
 featured: true
 comments: false 
 ---
-# *This post is still a work in progress as of 2/1/2023*
+# *This post is still a work in progress as of 2/3/2023*
 
 The goal for this blog post is to provide easy instructions for installing Jekyll. 
 
