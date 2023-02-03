@@ -6,28 +6,17 @@ layout: default
     <div class="row">
 
         <div class="col-md-12 flex-first flex-md-unordered">
-            <section>
-            <div class="mainheading">
-           
-                <div class="section-title">
-                    <h2><span>{{ page.title }}</span></h2>
+            
+                <div class="mainheading">
+                    <div class="section-title">
+                        <h2><span>{{ page.title }}</span></h2>
+                    </div>
                 </div>
-
-            <div class="article-post">
-            {{content}}
-            </div>
-
-            {% if page.comments == true %}
-
-            <div id="comments" class="row mb-5">
-                <div class="col-md-8">
-                    {% include disqus.html %}
-                </div>
-            </div>
-
-            {% endif %}
-            </section>
-        </div>
-    
+                <div class="article-post">
+                    <section>
+                        {{content}}
+                    </section>
+                </div>            
+        </div>    
     </div>
 </div>
