@@ -13,7 +13,7 @@ include: ["_pages"]
 permalink: /:title/
 url: 'https://www.PatrickZipf.com'
 
-templatemessage: '<a target="_blank" href="https://www.chrishammond.com/">Forked from Chris Hammond</a>'
+templatemessage: '<a target="_blank" href="#">Got Ya Productions</a>'
 
 # Authors
 authors:
