@@ -6,6 +6,6 @@ comments: false
 redirect_from: 
   - "/About"
 ---
-{% picture About-1.jpg %}
+{% picture patrickzipf.jpg %}
 
 PatrickZipf.com is 
