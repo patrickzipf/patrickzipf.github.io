@@ -11,7 +11,7 @@ google_analytics: 'G-ZKHV3G3SN8' # configured for Google Analytics 4 MEASUREMENT
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
-url: 'https://www.PatrickZipf.com'
+url: 'https://patrickzipf.com'
 
 templatemessage: '<a target="_blank" href="#">Got Ya Productions</a>'
 
@@ -22,7 +22,7 @@ authors:
     display_name: Patrick Zipf
     gravatar: 
     email: patrickzipf@christoc.com
-    web: https://www.patrickzipf.com
+    web: https://patrickzipf.com
     twitter: https://twitter.com/patrickzipf
     description: "A big fan of Rick" 
 
