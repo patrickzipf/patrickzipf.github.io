@@ -1,42 +1,42 @@
 
 var documents = [{
     "id": 0,
-    "url": "https://www.PatrickZipf.com/404.html",
+    "url": "https://patrickzipf.com/404.html",
     "title": "404",
     "body": "404 Page does not exist!Please use the search bar at the top or visit our homepage! "
     }, {
     "id": 1,
-    "url": "https://www.PatrickZipf.com/about",
+    "url": "https://patrickzipf.com/about",
     "title": "About PatrickZipf.com",
     "body": " PatrickZipf. com is "
     }, {
     "id": 2,
-    "url": "https://www.PatrickZipf.com/categories",
+    "url": "https://patrickzipf.com/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 3,
-    "url": "https://www.PatrickZipf.com/",
+    "url": "https://patrickzipf.com/",
     "title": "Home",
     "body": "      Featured:                                                                                                                                                                                                             Welcome to PatrickZipf. com                              :               Welcome to here!:                                                                       16 Jul 2023                                                                                                                      All Stories:                                                             Welcome to PatrickZipf. com              :       Welcome to here!:                               16 Jul 2023                                            "
     }, {
     "id": 4,
-    "url": "https://www.PatrickZipf.com/About",
+    "url": "https://patrickzipf.com/About",
     "title": "",
     "body": ""
     }, {
     "id": 5,
-    "url": "https://www.PatrickZipf.com/redirects.json",
+    "url": "https://patrickzipf.com/redirects.json",
     "title": "",
-    "body": "{“/About”:”https://www. patrickzipf. com/about”} "
+    "body": "{“/About”:”https://patrickzipf. com/about”} "
     }, {
     "id": 6,
-    "url": "https://www.PatrickZipf.com/robots.txt",
+    "url": "https://patrickzipf.com/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 7,
-    "url": "https://www.PatrickZipf.com/welcome",
+    "url": "https://patrickzipf.com/welcome",
     "title": "Welcome to PatrickZipf.com",
     "body": "2023/07/16 - Welcome to here! "
     }];
