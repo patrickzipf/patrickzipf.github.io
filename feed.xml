@@ -5,8 +5,8 @@
     <description>A sample Jekyll Site!</description>
     <link>https://patrickzipf.com/</link>
     <atom:link href="https://patrickzipf.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Jul 2023 14:33:24 +0000</pubDate>
-    <lastBuildDate>Tue, 18 Jul 2023 14:33:24 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Jul 2023 14:35:37 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Jul 2023 14:35:37 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -20,10 +20,10 @@
 
         Sorry, your browser doesn't support embedded videos.
     &lt;/video&gt;
-&lt;!--
+
     &lt;script&gt;
         // Change the variables below to your liking
-        const currentURL = &quot;video.mp4&quot;;
+        const currentURL = &quot;/assets/videos/video.mp4&quot;;
         const pageTitle = &quot;Loading...&quot;;
         // End of changable variables
         
@@ -42,7 +42,7 @@
         
         window.onload = onload();
     &lt;/script&gt;
-    --&gt;
+
 &lt;/div&gt;
 
 </description>
