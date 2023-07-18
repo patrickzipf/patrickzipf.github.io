@@ -3,7 +3,7 @@ layout: post
 title: Welcome to PatrickZipf.com
 date: '2023-07-16T16:00:15+00:00'
 permalink: welcome
-image: zipf.jpg
+image: 
 categories: [ patrickzipf ]
 featured: false
 comments: false 
@@ -17,6 +17,7 @@ Welcome to PatrickZipf.com, home of Patrick Zipf, a man from St. Louis.
 
         Sorry, your browser doesn't support embedded videos.
     </video>
+<!--
     <script>
         // Change the variables below to your liking
         const currentURL = "video.mp4";
@@ -38,5 +39,6 @@ Welcome to PatrickZipf.com, home of Patrick Zipf, a man from St. Louis.
         
         window.onload = onload();
     </script>
+    -->
 </div>
 
