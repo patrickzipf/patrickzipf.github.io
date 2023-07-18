@@ -17,10 +17,10 @@ Welcome to PatrickZipf.com, home of Patrick Zipf, a man from St. Louis.
 
         Sorry, your browser doesn't support embedded videos.
     </video>
-<!--
+
     <script>
         // Change the variables below to your liking
-        const currentURL = "video.mp4";
+        const currentURL = "/assets/videos/video.mp4";
         const pageTitle = "Loading...";
         // End of changable variables
         
@@ -39,6 +39,6 @@ Welcome to PatrickZipf.com, home of Patrick Zipf, a man from St. Louis.
         
         window.onload = onload();
     </script>
-    -->
+
 </div>
 
