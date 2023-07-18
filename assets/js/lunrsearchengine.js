@@ -38,7 +38,7 @@ var documents = [{
     "id": 7,
     "url": "https://patrickzipf.com/welcome",
     "title": "Welcome to PatrickZipf.com",
-    "body": "2023/07/16 - Welcome to PatrickZipf. com, home of Patrick Zipf, a man from St. Louis. "
+    "body": "2023/07/16 - Welcome to PatrickZipf. com, home of Patrick Zipf, a man from St. Louis.           Sorry, your browser doesn't support embedded videos.     "
     }];
 
 var idx = lunr(function () {
