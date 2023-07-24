@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "https://patrickzipf.com/",
     "title": "Home",
-    "body": "      Featured:                     All Stories:                                                             Welcome to PatrickZipf. com              :       Welcome to PatrickZipf. com, home of Patrick Zipf, a man from St. Louis. Click to read more on my first blog post:                               16 Jul 2023                                            "
+    "body": "      All Posts:                                                             Welcome to PatrickZipf. com              :       Welcome to PatrickZipf. com from St. Louis. Click to read more on my first blog post:                               16 Jul 2023                                            "
     }, {
     "id": 4,
     "url": "https://patrickzipf.com/About",
@@ -38,7 +38,7 @@ var documents = [{
     "id": 7,
     "url": "https://patrickzipf.com/welcome",
     "title": "Welcome to PatrickZipf.com",
-    "body": "2023/07/16 - Welcome to PatrickZipf. com, home of Patrick Zipf, a man from St. Louis. Click to read more on my first blog post           Sorry, your browser doesn't support embedded videos.     "
+    "body": "2023/07/16 - Welcome to PatrickZipf. com from St. Louis. Click to read more on my first blog post           Sorry, your browser doesn't support embedded videos.     "
     }];
 
 var idx = lunr(function () {
