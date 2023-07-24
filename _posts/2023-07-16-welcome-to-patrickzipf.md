@@ -8,7 +8,7 @@ categories: [ patrickzipf ]
 featured: false
 comments: false 
 ---
-Welcome to PatrickZipf.com, home of Patrick Zipf, a man from St. Louis. Click to read more on my first blog post
+Welcome to PatrickZipf.com from St. Louis. Click to read more on my first blog post
 
 <div>
     <video autoplay loop width="100%">
