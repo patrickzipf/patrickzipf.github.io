@@ -1,8 +1,8 @@
 # Site Settings
 # You can change the settings below in order to customize your website.
 name: "PatrickZipf.com"
-title: "PatrickZipf.com - NGGYUNGLYD! "
-description: "A sample Jekyll Site!"
+title: "The home page of Patrick Zipf! "
+description: "A Patrick Zipf production!"
 logo: 'assets/Logo.png'
 favicon: 'assets/favicon.ico'
 baseurl: ""
