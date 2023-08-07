@@ -8,4 +8,4 @@ redirect_from:
 ---
 {% picture patrickzipf.jpg %}
 
-PatrickZipf.com is 
+Patrick Zipf is all about it.

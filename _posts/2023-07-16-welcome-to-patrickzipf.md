@@ -3,12 +3,12 @@ layout: post
 title: Welcome to PatrickZipf.com
 date: '2023-07-16T16:00:15+00:00'
 permalink: welcome
-image: 
-categories: [ patrickzipf ]
+image: patrick-zipf.jpg
+categories: [ patrickzipf, photos ]
 featured: false
 comments: false 
 ---
-Welcome to PatrickZipf.com from St. Louis. Click to read more on my first blog post
+Welcome to PatrickZipf.com from St. Louis. Click to read more on my first blog post and view some photos.
 
 <div>
     <video autoplay loop width="100%">
