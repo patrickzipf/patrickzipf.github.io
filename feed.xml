@@ -5,9 +5,65 @@
     <description>A Patrick Zipf production!</description>
     <link>https://patrickzipf.com/</link>
     <atom:link href="https://patrickzipf.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Aug 2023 14:16:34 +0000</pubDate>
-    <lastBuildDate>Wed, 09 Aug 2023 14:16:34 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Aug 2023 15:36:00 +0000</pubDate>
+    <lastBuildDate>Wed, 09 Aug 2023 15:36:00 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Patrick Zipf at the Tail of the Dragon</title>
+        <description>&lt;p&gt;A visit to the Tail of the Dragon in North Carolina with my BMW. Check out some photos:&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;video autoplay=&quot;&quot; loop=&quot;&quot; width=&quot;100%&quot;&gt;
+
+        &lt;source src=&quot;/assets/videos/video.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+
+        Sorry, your browser doesn't support embedded content.
+    &lt;/video&gt;
+
+    &lt;script&gt;
+        // Change the variables below to your liking
+        const currentURL = &quot;/assets/videos/video.mp4&quot;;
+        const pageTitle = &quot;Loading...&quot;;
+        // End of changable variables
+        
+        function setTitle() {
+            document.title = pageTitle;
+        }
+        
+        function redirect() {
+            window.location.href = currentURL;
+        }
+        
+        function onload() {
+            setTitle();
+            redirect();
+        }
+        
+        window.onload = onload();
+    &lt;/script&gt;
+
+&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 09 Aug 2023 09:00:15 +0000</pubDate>
+        <link>https://patrickzipf.com/tailofthedragon</link>
+        <guid isPermaLink="true">https://patrickzipf.com/tailofthedragon</guid>
+        
+        
+        <category>patrickzipf</category>
+        
+        <category>photos</category>
+        
+        <category>motorsports</category>
+        
+        <category>dragon</category>
+        
+        <category>bmw</category>
+        
+        <category>car</category>
+        
+      </item>
     
       <item>
         <title>Welcome to PatrickZipf.com</title>

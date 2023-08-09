@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "https://patrickzipf.com/",
     "title": "Patrick Zipf's Home Page",
-    "body": "      All Posts:                                                                               Welcome to PatrickZipf. com              :       Welcome to PatrickZipf. com from St. Louis. Click to read more on my first blog post and view some photos. :                               16 Jul 2023                                            "
+    "body": "      All Posts:                                                                               Patrick Zipf at the Tail of the Dragon              :       A visit to the Tail of the Dragon in North Carolina with my BMW. Check out some photos::                               09 Aug 2023                                                                                                              Welcome to PatrickZipf. com              :       Welcome to PatrickZipf. com from St. Louis. Click to read more on my first blog post and view some photos. :                               16 Jul 2023                                            "
     }, {
     "id": 4,
     "url": "https://patrickzipf.com/About",
@@ -36,6 +36,11 @@ var documents = [{
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 7,
+    "url": "https://patrickzipf.com/tailofthedragon",
+    "title": "Patrick Zipf at the Tail of the Dragon",
+    "body": "2023/08/09 - A visit to the Tail of the Dragon in North Carolina with my BMW. Check out some photos:           Sorry, your browser doesn't support embedded content.     "
+    }, {
+    "id": 8,
     "url": "https://patrickzipf.com/welcome",
     "title": "Welcome to PatrickZipf.com",
     "body": "2023/07/16 - Welcome to PatrickZipf. com from St. Louis. Click to read more on my first blog post and view some photos.           Sorry, your browser doesn't support embedded content.     "
