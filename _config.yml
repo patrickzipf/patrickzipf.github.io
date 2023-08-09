@@ -6,7 +6,7 @@ description: "A Patrick Zipf production!"
 logo: 'assets/Logo.png'
 favicon: 'assets/favicon.ico'
 baseurl: ""
-google_analytics: 'G-ZKHV3G3SN8' # configured for Google Analytics 4 MEASUREMENT ID
+google_analytics: 'G-HC6DSPCCK0' # configured for Google Analytics 4 MEASUREMENT ID
 # disqus: 
 mailchimp-list: 
 include: ["_pages"]
@@ -21,7 +21,7 @@ authors:
     name: Patrick Zipf
     display_name: Patrick Zipf
     gravatar: 
-    email: patrickzipf@christoc.com
+    email: web@patrickzipf.com
     web: https://patrickzipf.com
     twitter: https://twitter.com/patrickzipf
     description: "A big fan of Rick" 
