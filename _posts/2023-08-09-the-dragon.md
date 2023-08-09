@@ -3,7 +3,7 @@ layout: post
 title: Patrick Zipf at the Tail of the Dragon
 date: '2023-08-09T09:00:15+00:00'
 permalink: tailofthedragon
-image: dragon.jpg
+image: dragon.png
 categories: [ patrickzipf, photos, motorsports, dragon, bmw, car ]
 featured: false
 comments: false 
