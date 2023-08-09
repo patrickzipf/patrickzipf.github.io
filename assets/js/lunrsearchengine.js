@@ -17,7 +17,7 @@ var documents = [{
     }, {
     "id": 3,
     "url": "https://patrickzipf.com/",
-    "title": "Home",
+    "title": "Patrick Zipf's Home Page",
     "body": "      All Posts:                                                                               Welcome to PatrickZipf. com              :       Welcome to PatrickZipf. com from St. Louis. Click to read more on my first blog post and view some photos. :                               16 Jul 2023                                            "
     }, {
     "id": 4,
