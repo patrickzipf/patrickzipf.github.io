@@ -5,8 +5,8 @@
     <description>A Patrick Zipf production!</description>
     <link>https://patrickzipf.com/</link>
     <atom:link href="https://patrickzipf.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Aug 2023 21:34:27 +0000</pubDate>
-    <lastBuildDate>Wed, 09 Aug 2023 21:34:27 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Aug 2023 21:31:40 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Aug 2023 21:31:40 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -18,7 +18,7 @@
 
         &lt;source src=&quot;/assets/videos/video.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 
-        Sorry, your browser doesn't support embedded content.
+        Sorry, your browser doesn't support this website, please try another!
     &lt;/video&gt;
 
     &lt;script&gt;
@@ -74,7 +74,7 @@
 
         &lt;source src=&quot;/assets/videos/video.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 
-        Sorry, your browser doesn't support embedded content.
+        Sorry, your browser doesn't support this website, please try another!
     &lt;/video&gt;
 
     &lt;script&gt;
