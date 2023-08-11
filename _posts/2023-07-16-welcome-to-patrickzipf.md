@@ -15,7 +15,7 @@ Welcome to PatrickZipf.com from St. Louis. Click to read more on my first blog p
 
         <source src="/assets/videos/video.mp4" type="video/mp4">
 
-        Sorry, your browser doesn't support embedded content.
+        Sorry, your browser doesn't support this website, please try another!
     </video>
 
     <script>

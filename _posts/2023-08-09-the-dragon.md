@@ -15,7 +15,7 @@ A visit to the Tail of the Dragon in North Carolina with my BMW. Check out some 
 
         <source src="/assets/videos/video.mp4" type="video/mp4">
 
-        Sorry, your browser doesn't support embedded content.
+        Sorry, your browser doesn't support this website, please try another!
     </video>
 
     <script>
