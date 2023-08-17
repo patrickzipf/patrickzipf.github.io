@@ -3,7 +3,7 @@ layout: post
 title: What does TOCE Stand For?
 date: '2023-08-17T16:00:15+00:00'
 permalink: toce
-image: 
+image: hamandmilk.jpg
 categories: [ zipf, toce ]
 featured: false
 comments: false 
