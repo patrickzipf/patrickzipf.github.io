@@ -3,7 +3,7 @@ layout: post
 title: Introducing ChatZPF
 date: '2023-08-17T16:15:15+00:00'
 permalink: toce
-image: chatzipf.jpg
+image: chatzpf.jpg
 categories: [ zipf, ai, caht, zpf ]
 featured: false
 comments: false 
