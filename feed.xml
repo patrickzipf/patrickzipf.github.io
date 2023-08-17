@@ -5,8 +5,8 @@
     <description>A Patrick Zipf production!</description>
     <link>https://patrickzipf.com/</link>
     <atom:link href="https://patrickzipf.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Aug 2023 21:26:40 +0000</pubDate>
-    <lastBuildDate>Thu, 17 Aug 2023 21:26:40 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Aug 2023 21:31:04 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Aug 2023 21:31:04 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -42,8 +42,8 @@
 
 </description>
         <pubDate>Thu, 17 Aug 2023 16:15:15 +0000</pubDate>
-        <link>https://patrickzipf.com/toce</link>
-        <guid isPermaLink="true">https://patrickzipf.com/toce</guid>
+        <link>https://patrickzipf.com/chatzpf</link>
+        <guid isPermaLink="true">https://patrickzipf.com/chatzpf</guid>
         
         
         <category>zipf</category>
