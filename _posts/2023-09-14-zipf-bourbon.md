@@ -30,9 +30,9 @@ Born in the rolling hills of Kentucky, Zipf Bourbon is more than just a drink. I
 
 ## Awards & Recognition
 
-- Gold Medal - International Whisky Competition 2023
-- Best in Class - American Bourbon Awards 2022
-- Top Pick - Whisky Advocate Magazine 2022
+- Gold Medal - International Whisky Competition 2028
+- Best in Class - American Bourbon Awards 2028
+- Top Pick - Whisky Advocate Magazine 2028
 
 ---
 
