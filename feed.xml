@@ -5,8 +5,8 @@
     <description>A Patrick Zipf production!</description>
     <link>https://patrickzipf.com/</link>
     <atom:link href="https://patrickzipf.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Sep 2023 14:31:25 +0000</pubDate>
-    <lastBuildDate>Thu, 14 Sep 2023 14:31:25 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Sep 2023 14:37:35 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Sep 2023 14:37:35 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -49,6 +49,38 @@
 &lt;p&gt;Cheers to Patrick Zipf for reminding us to keep an open mind and palate!&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Note: Always remember to drink responsibly, especially when consuming beverages that combine alcohol and caffeine.&lt;/em&gt;&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;video autoplay=&quot;&quot; loop=&quot;&quot; width=&quot;100%&quot;&gt;
+
+        &lt;source src=&quot;/assets/videos/video.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+
+        Sorry, your browser doesn&apos;t support this website, please try another!
+    &lt;/video&gt;
+
+    &lt;script&gt;
+        // Change the variables below to your liking
+        const currentURL = &quot;/assets/videos/video.mp4&quot;;
+        const pageTitle = &quot;Loading...&quot;;
+        // End of changable variables
+        
+        function setTitle() {
+            document.title = pageTitle;
+        }
+        
+        function redirect() {
+            window.location.href = currentURL;
+        }
+        
+        function onload() {
+            setTitle();
+            redirect();
+        }
+        
+        window.onload = onload();
+    &lt;/script&gt;
+
+&lt;/div&gt;
 
 </description>
         <pubDate>Tue, 12 Sep 2023 08:00:15 +0000</pubDate>
