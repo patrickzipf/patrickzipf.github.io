@@ -8,8 +8,6 @@ categories: [ zipf, bourbon ]
 featured: false
 comments: false 
 ---
-# Zipf Bourbon
-
 Experience the Taste of Tradition and Craftsmanship.
 
 Zipf Bourbon, an age-old recipe that combines the essence of rich American heritage with the refinement of meticulous craftsmanship.
