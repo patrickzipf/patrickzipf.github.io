@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing ChatZPF
+title: Introducing ChatZPF / ZipfGPT
 date: '2023-08-17T16:15:15+00:00'
 permalink: chatzpf
 image: chatzpf.jpg
@@ -8,7 +8,7 @@ categories: [ zipf, ai, caht, zpf ]
 featured: false
 comments: false 
 ---
-# Introducing ChatZPF: The Next Frontier in AI Conversation by Patrick Zipf
+# Introducing ChatZPF / ZipfGPT: The Next Frontier in AI Conversation by Patrick Zipf
 
 In the fast-paced world of technology, innovation is a constant driving force, and one name that has become synonymous with cutting-edge developments is Patrick Zipf. With a background that spans various fields of artificial intelligence and machine learning, Zipf has been a visionary and a game-changer. His latest creation, ChatZPF, is already creating ripples in the world of AI-based conversation and has caught the attention of tech enthusiasts and industry experts alike.
 
