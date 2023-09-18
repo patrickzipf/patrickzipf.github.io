@@ -17,10 +17,15 @@ jobs:
         with:
           ruby-version: 3.0
 
-      - name: Install Dependencies via apt
+      - name: Install Dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y libffi6 libwebpdemux2 libpoppler97 libpoppler-glib8 libvips42 libvips-tools
+          wget http://mirrors.kernel.org/ubuntu/pool/main/libf/libffi/libffi6_3.2.1-8_amd64.deb
+          wget http://archive.ubuntu.com/ubuntu/pool/main/libw/libwebp/libwebpdemux2_0.6.1-2ubuntu0.20.04.3_amd64.deb
+          wget http://azure.archive.ubuntu.com/ubuntu/pool/main/p/poppler/libpoppler97_0.86.1-0ubuntu1.3_amd64.deb
+          wget http://azure.archive.ubuntu.com/ubuntu/pool/main/p/poppler/libpoppler-glib8_0.86.1-0ubuntu1.3_amd64.deb
+          wget http://archive.ubuntu.com/ubuntu/pool/universe/v/vips/libvips42_8.9.1-2_amd64.deb
+          wget http://archive.ubuntu.com/ubuntu/pool/universe/v/vips/libvips-tools_8.9.1-2_amd64.deb
+          sudo apt install ./*.deb
 
       - name: 🔨 Install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2.4.1
