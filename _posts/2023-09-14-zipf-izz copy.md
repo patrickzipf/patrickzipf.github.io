@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thanksgiving\: The Unsung Hero of Holidays and My Quest for a 5-Day Weekend'
+title: 'Thanksgiving - The Unsung Hero of Holidays and My Quest for a 5-Day Weekend'
 date: '2023-09-19T08:00:15+00:00'
 permalink: thanksgiving
 image: thanksgiving.jpg
