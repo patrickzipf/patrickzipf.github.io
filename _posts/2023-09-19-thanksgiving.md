@@ -5,7 +5,7 @@ date: '2023-09-19T08:00:15+00:00'
 permalink: thanksgiving
 image: thanksgiving.jpg
 categories: [ zipf, thanksgiving ]
-featured: true
+featured: false
 comments: false 
 ---
 Ah, Thanksgiving! The golden child of holidays that, in my humble opinion, doesn't get the credit it truly deserves. I mean, who doesn’t love a day dedicated to gratitude, family, friends, and oh, let’s not forget – an abundance of delightful food? But as much as I cherish the turkey-centric festivity, I've always pondered one thing: Why do we rush and scramble the three days before it, working our regular jobs, when all we can think of is the succulent turkey and cranberry sauce waiting for us?
