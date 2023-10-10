@@ -4,7 +4,7 @@ title: ' The Value of Being Early: A Birthday Mishap'
 date: '2023-10-10T09:00:15+00:00'
 permalink: earlybirthdays
 image: birthday.jpg
-categories: [ zipf ]
+categories: [ birthday, friends, family ]
 featured: false
 comments: false 
 --- 
