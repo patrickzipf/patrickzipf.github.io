@@ -1,19 +1,13 @@
 ---
 layout: post
-title: 'Wishing an early birthday'
+title: ' The Value of Being Early: A Birthday Mishap'
 date: '2023-10-10T09:00:15+00:00'
-permalink: birthdays
+permalink: earlybirthdays
 image: birthday.jpg
 categories: [ zipf ]
 featured: false
 comments: false 
 --- 
-# The Value of Being Early: A Birthday Mishap
-
-*By Patrick Zipf*
-
----
-
 We've all been there, right? You're scrolling through your calendar, and suddenly, you spot a friend or family member's birthday looming on the horizon. Excitement bubbles up as you imagine the joy they'll feel when they wake up to your heartfelt birthday wishes. You can't wait to make their day special. So, you send that "Happy Birthday!" message, only to realize moments later that you're a whole day early. Oops!
 
 Yes, it happened to me recently. I was so eager to extend my birthday wishes to a close friend that I didn't double-check the date. I thought I was being proactive, but I was, in fact, premature. I admit it was a tad embarrassing, but it also got me thinking about the benefits of being early, not just in birthday wishes but in life in general.
