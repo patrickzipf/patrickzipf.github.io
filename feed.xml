@@ -5,19 +5,13 @@
     <description>A Patrick Zipf production!</description>
     <link>https://patrickzipf.com/</link>
     <atom:link href="https://patrickzipf.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Oct 2023 14:30:33 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Oct 2023 14:30:33 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2023 14:37:14 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Oct 2023 14:37:14 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>Wishing an early birthday</title>
-        <description>&lt;h1 id=&quot;the-value-of-being-early-a-birthday-mishap&quot;&gt;The Value of Being Early: A Birthday Mishap&lt;/h1&gt;
-
-&lt;p&gt;&lt;em&gt;By Patrick Zipf&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;We’ve all been there, right? You’re scrolling through your calendar, and suddenly, you spot a friend or family member’s birthday looming on the horizon. Excitement bubbles up as you imagine the joy they’ll feel when they wake up to your heartfelt birthday wishes. You can’t wait to make their day special. So, you send that “Happy Birthday!” message, only to realize moments later that you’re a whole day early. Oops!&lt;/p&gt;
+        <title> The Value of Being Early: A Birthday Mishap</title>
+        <description>&lt;p&gt;We’ve all been there, right? You’re scrolling through your calendar, and suddenly, you spot a friend or family member’s birthday looming on the horizon. Excitement bubbles up as you imagine the joy they’ll feel when they wake up to your heartfelt birthday wishes. You can’t wait to make their day special. So, you send that “Happy Birthday!” message, only to realize moments later that you’re a whole day early. Oops!&lt;/p&gt;
 
 &lt;p&gt;Yes, it happened to me recently. I was so eager to extend my birthday wishes to a close friend that I didn’t double-check the date. I thought I was being proactive, but I was, in fact, premature. I admit it was a tad embarrassing, but it also got me thinking about the benefits of being early, not just in birthday wishes but in life in general.&lt;/p&gt;
 
@@ -60,8 +54,8 @@
 &lt;p&gt;&lt;em&gt;Remember, there’s always a silver lining even in our little mishaps. Being early is just one of those valuable qualities that can make a positive impact in our lives. So, seize the day (or, in my case, the day before) and make it count!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2023 09:00:15 +0000</pubDate>
-        <link>https://patrickzipf.com/birthdays</link>
-        <guid isPermaLink="true">https://patrickzipf.com/birthdays</guid>
+        <link>https://patrickzipf.com/earlybirthdays</link>
+        <guid isPermaLink="true">https://patrickzipf.com/earlybirthdays</guid>
         
         
         <category>zipf</category>
