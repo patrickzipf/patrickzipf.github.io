@@ -46,6 +46,4 @@ We invite you to embrace Zipfsgiving and make it a part of your annual tradition
 
 Happy Zipfsgiving from all of us at PatrickZipf.com!
 
----
-
 *For more ideas and to share your Zipfsgiving experiences, visit [PatrickZipf.com](https://patrickzipf.com/).*
