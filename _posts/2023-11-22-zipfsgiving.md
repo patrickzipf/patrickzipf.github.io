@@ -5,7 +5,7 @@ date: '2023-11-22T09:00:15+00:00'
 permalink: zipfsgiving
 image: zipfsgiving.png
 categories: [ holiday, friends, family ]
-featured: true
+featured: false
 comments: false 
 --- 
 # Celebrating Zipfsgiving: A New Thanksgiving Tradition
