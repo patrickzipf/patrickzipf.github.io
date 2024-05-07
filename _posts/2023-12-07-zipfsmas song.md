@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'The Ballad of Zipfsmas - A Zipfsmas Song'
-date: '2023-12-07T15:00:15+00:00'
+date: '2024-12-07T15:00:15+00:00'
 permalink: zipfsmassong
-image: zipfmassong.png
+image: 
 categories: [ holiday, friends, family, christmas, zipfsmas, song, music ]
 featured: false
 comments: false 
