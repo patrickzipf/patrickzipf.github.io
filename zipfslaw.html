@@ -22,8 +22,8 @@
 			content="width=device-width, initial-scale=1, shrink-to-fit=no"
 		/>
 		<title>
-			Understanding Zipf's Law - The Mathematical Mystery in Language - The home
-			page of Patrick Zipf!
+			Understanding Zipf's Law - The Mathematical Mystery in Language -
+			PatrickZipf.com
 		</title>
 		<link rel="icon" href="assets/favicon.ico" />
 
@@ -65,6 +65,38 @@
 		<link href="/assets/css/main.css" rel="stylesheet" />
 
 		<script src="/assets/js/jquery.min.js"></script>
+
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "BlogPosting",
+				"url": "https://patrickzipf.com/zipfslaw",
+				"name": "Understanding Zipf's Law - The Mathematical Mystery in Language",
+				"headline": "Understanding Zipf's Law - The Mathematical Mystery in Language",
+				"keywords": "",
+				"description": "",
+				"articleBody": "Zipf’s Law is a peculiar phenomenon that manifests itself in various aspects of our daily lives. From the distribution of wealth in economies to the pattern of links on the internet, it can be observed in many different areas. However, it is in the realm of language where Zipf’s Law is most famously illustrated. Let’s delve into what Zipf’s Law is, its history, its relevance to natural language, and its broader applications.\n\nWhat is Zipf’s Law?\n\nZipf’s Law is a statistical principle that describes the distribution of frequencies of elements within a given set. In the context of language, it states that if you take a large body of text and rank the words by their frequency of occurrence, the frequency of any word is inversely proportional to its rank.\n\nMathematically, this can be expressed as:\n\n[ f = \\frac{c}{r} ]\n\nWhere:\n\n  ( f ) is the frequency of the word,\n  ( r ) is the rank of the word,\n  ( c ) is a constant.\n\n\nFor example, the most common word in English, “the”, appears twice as often as the second most common word, three times as often as the third most common word, and so on.\n\nHistory of Zipf’s Law\n\nZipf’s Law is named after George Zipf, a linguist and philologist who first observed this phenomenon in the 1930s. He studied different languages and found that this statistical distribution was consistent across various linguistic systems. Although he was not the first to notice this pattern, he was instrumental in popularizing it, and it now bears his name.\n\nZipf’s Law and Natural Language\n\nThe fascinating aspect of Zipf’s Law in language is how it appears to be a universal principle. Whether examining English, Chinese, Russian, or any other language, the distribution seems to follow this pattern. Some theories attempt to explain this phenomenon by relating it to the cognitive processes involved in speech and communication, while others attribute it to the inherent structure of languages.\n\nOne application of Zipf’s Law in computational linguistics is in text compression and information retrieval. Understanding the statistical distribution of words can lead to more efficient algorithms for processing large bodies of text.\n\nBroader Applications of Zipf’s Law\n\nBeyond language, Zipf’s Law appears in many other areas:\n\n\n  Economics: The distribution of income within a population often follows Zipf’s Law.\n  Biology: Some species abundance patterns conform to this law.\n  Internet: The distribution of hyperlinks and website traffic exhibits Zipfian characteristics.\n\n\nThese occurrences provide intriguing insights into the fundamental structures and systems in various domains.\n\nConclusion\n\nZipf’s Law is a compelling and somewhat mysterious statistical principle. Its appearance in natural language offers a unique perspective on the inherent patterns within linguistic systems, reflecting perhaps something fundamental about human cognition or communication. Furthermore, its application extends to various fields, making it a valuable concept for researchers, scientists, and anyone fascinated by patterns in the world around them.\n\nWhether a beautiful mathematical artifact or a deeper indication of the universality of certain natural phenomena, Zipf’s Law continues to be an exciting area of exploration and study. Its simple mathematical formulation belies a complexity that we are still striving to fully comprehend, making it an ongoing challenge and inspiration for curious minds.\n",
+				"datePublished": "2023-08-13 23:00:15 +0000",
+				"dateModified": "2023-08-13 23:00:15 +0000",
+
+				"publisher": {
+					"@type": "Organization",
+					"name": "The home page of Patrick Zipf! ",
+					"url": "https://patrickzipf.com",
+					"logo": {
+						"@type": "ImageObject",
+						"width": 32,
+						"height": 32,
+						"url": "https://patrickzipf.com/assets/favicon.ico"
+					}
+				},
+				"mainEntityOfPage": {
+					"@type": "WebPage",
+					"@id": "https://patrickzipf.com//zipfslaw"
+				},
+				"image": ["https://patrickzipf.com"]
+			}
+		</script>
 	</head>
 
 	<body class="layout-post">
@@ -171,17 +203,6 @@
 
 		<div class="site-content">
 			<div class="container">
-				<!-- Site Title
-================================================== -->
-				<!--
-<div class="mainheading">
-    <h1 class="sitetitle">PatrickZipf.com</h1>
-    <p class="lead">
-        A Patrick Zipf production!
-    </p>
-</div>
--->
-
 				<!-- Content
 ================================================== -->
 				<main class="main-content">
@@ -230,7 +251,7 @@
 							<!-- Post -->
 
 							<div class="col-md-9 flex-first flex-md-unordered">
-								<article itemscope itemtype="http://schema.org/BlogPosting">
+								<article itemscope itemtype="https://schema.org/BlogPosting">
 									<div class="mainheading">
 										<header>
 											<!-- Post Title -->
@@ -268,7 +289,7 @@
 									<!-- End Featured Image -->
 
 									<!-- Post Content -->
-									<div class="article-post">
+									<div class="article-post" itemprop="articleBody">
 										<!-- Toc if any -->
 
 										<!-- End Toc -->
@@ -408,13 +429,14 @@
 									</footer>
 									<!-- Post Categories -->
 									<div class="after-post-cats">
+										<h4>
+											<small><a href="/category">Categories:</a></small>
+										</h4>
 										<ul class="tags mb-4">
-											<h4><small>Categories:</small></h4>
-
 											<li>
 												<a
 													class="smoothscroll btn-secondary"
-													href="/category/math"
+													href="/category/math/"
 													>math</a
 												>
 											</li>
@@ -422,7 +444,7 @@
 											<li>
 												<a
 													class="smoothscroll btn-secondary"
-													href="/category/zipf"
+													href="/category/zipf/"
 													>zipf</a
 												>
 											</li>
@@ -464,10 +486,6 @@
 
 					<!--End Comments
 ================================================== -->
-
-					<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
-================================================== -->
 				</main>
 			</div>
 
@@ -485,57 +503,57 @@ https://search.google.com/structured-data/testing-tool/u/0/
 						</div>
 					</div>
 					<div class="col-md-8 p-5 align-self-center text-center">
-						<a class="mt-1 mb-1" href="/category/ai">ai (1)</a>
+						<a class="mt-1 mb-1" href="/category/ai/">ai (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/birthday">birthday (1)</a>
+						<a class="mt-1 mb-1" href="/category/birthday/">birthday (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/bmw">bmw (1)</a>
+						<a class="mt-1 mb-1" href="/category/bmw/">bmw (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/bourbon">bourbon (1)</a>
+						<a class="mt-1 mb-1" href="/category/bourbon/">bourbon (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/caht">caht (1)</a>
+						<a class="mt-1 mb-1" href="/category/caht/">caht (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/car">car (1)</a>
+						<a class="mt-1 mb-1" href="/category/car/">car (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/christmas">christmas (1)</a>
+						<a class="mt-1 mb-1" href="/category/christmas/">christmas (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/dragon">dragon (1)</a>
+						<a class="mt-1 mb-1" href="/category/dragon/">dragon (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/family">family (4)</a>
+						<a class="mt-1 mb-1" href="/category/family/">family (4)</a>
 
-						<a class="mt-1 mb-1" href="/category/fizz">fizz (1)</a>
+						<a class="mt-1 mb-1" href="/category/fizz/">fizz (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/friends">friends (4)</a>
+						<a class="mt-1 mb-1" href="/category/friends/">friends (4)</a>
 
-						<a class="mt-1 mb-1" href="/category/holiday">holiday (3)</a>
+						<a class="mt-1 mb-1" href="/category/holiday/">holiday (3)</a>
 
-						<a class="mt-1 mb-1" href="/category/math">math (1)</a>
+						<a class="mt-1 mb-1" href="/category/math/">math (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/motorsports"
+						<a class="mt-1 mb-1" href="/category/motorsports/"
 							>motorsports (1)</a
 						>
 
-						<a class="mt-1 mb-1" href="/category/patrickzipf"
+						<a class="mt-1 mb-1" href="/category/patrickzipf/"
 							>patrickzipf (2)</a
 						>
 
-						<a class="mt-1 mb-1" href="/category/photos">photos (2)</a>
+						<a class="mt-1 mb-1" href="/category/photos/">photos (2)</a>
 
-						<a class="mt-1 mb-1" href="/category/thanksgiving"
+						<a class="mt-1 mb-1" href="/category/thanksgiving/"
 							>thanksgiving (1)</a
 						>
 
-						<a class="mt-1 mb-1" href="/category/toce">toce (1)</a>
+						<a class="mt-1 mb-1" href="/category/toce/">toce (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/zipf">zipf (8)</a>
+						<a class="mt-1 mb-1" href="/category/zipf/">zipf (8)</a>
 
-						<a class="mt-1 mb-1" href="/category/zipfodemayo"
+						<a class="mt-1 mb-1" href="/category/zipfodemayo/"
 							>zipfodemayo (1)</a
 						>
 
-						<a class="mt-1 mb-1" href="/category/zipfsmas">zipfsmas (1)</a>
+						<a class="mt-1 mb-1" href="/category/zipfsmas/">zipfsmas (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/zpf">zpf (1)</a>
+						<a class="mt-1 mb-1" href="/category/zpf/">zpf (1)</a>
 					</div>
 				</div>
 			</div>

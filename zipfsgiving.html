@@ -21,7 +21,7 @@
 			name="viewport"
 			content="width=device-width, initial-scale=1, shrink-to-fit=no"
 		/>
-		<title>Zipfsgiving - The home page of Patrick Zipf!</title>
+		<title>Zipfsgiving - PatrickZipf.com</title>
 		<link rel="icon" href="assets/favicon.ico" />
 
 		<meta property="og:url" content="https://patrickzipf.com/zipfsgiving" />
@@ -68,6 +68,40 @@
 		<link href="/assets/css/main.css" rel="stylesheet" />
 
 		<script src="/assets/js/jquery.min.js"></script>
+
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "BlogPosting",
+				"url": "https://patrickzipf.com/zipfsgiving",
+				"name": "Zipfsgiving",
+				"headline": "Zipfsgiving",
+				"keywords": "",
+				"description": "",
+				"articleBody": "Celebrating Zipfsgiving: A New Thanksgiving Tradition\n\nAs the leaves turn vibrant hues of red, orange, and yellow, and the crisp autumn air begins to settle in, we at PatrickZipf.com are excited to introduce a new Thanksgiving tradition: Zipfsgiving.\n\nWhat is Zipfsgiving?\n\nZipfsgiving is our unique take on the classic Thanksgiving celebration. It’s a day to gather with loved ones, reflect on our blessings, and enjoy the beauty of the season, all while embracing the spirit of community and togetherness that defines PatrickZipf.com.\n\nThe Essence of Zipfsgiving\n\nZipfsgiving is more than just a meal; it’s an experience. It’s about appreciating the simple pleasures of life, the beauty of nature, and the joy of community. It’s a time to step back from the hectic pace of life and enjoy a moment of peace and reflection.\n\nActivities for Zipfsgiving\n\n\n  Nature Walks: Take a walk in your local park and enjoy the fall foliage.\n  Pumpkin Carving: Get creative with pumpkin carving and decorating.\n  Photo Sessions: Capture the beauty of the season with a family photo session in the autumn landscape.\n  Community Gatherings: Organize or participate in local community events to celebrate the day.\n\n\nZipfsgiving Feast\n\nWhile traditional Thanksgiving dishes are always welcome, Zipfsgiving encourages a twist on the classics. Think pumpkin pies with a hint of unique spices or a turkey recipe passed down through generations.\n\nFeatured Recipes\n\n\n  Zipf’s Special Pumpkin Pie: A classic pie with a secret blend of spices.\n  Heirloom Turkey Roast: A turkey recipe with a personal touch from the Zipf family cookbook.\n\n\nGratitude and Giving Back\n\nAt the heart of Zipfsgiving is gratitude. We encourage everyone to take a moment to express what they are thankful for. Additionally, giving back to the community is a cornerstone of Zipfsgiving. Consider volunteering at local shelters or participating in food drives.\n\nJoin Us in Celebration\n\nWe invite you to embrace Zipfsgiving and make it a part of your annual tradition. Share your Zipfsgiving stories, photos, and experiences with us at PatrickZipf.com. Let’s make this Zipfsgiving a day to remember!\n\nHappy Zipfsgiving from all of us at PatrickZipf.com!\n\nFor more ideas and to share your Zipfsgiving experiences, visit PatrickZipf.com.\n",
+				"datePublished": "2023-11-22 09:00:15 +0000",
+				"dateModified": "2023-11-22 09:00:15 +0000",
+
+				"publisher": {
+					"@type": "Organization",
+					"name": "The home page of Patrick Zipf! ",
+					"url": "https://patrickzipf.com",
+					"logo": {
+						"@type": "ImageObject",
+						"width": 32,
+						"height": 32,
+						"url": "https://patrickzipf.com/assets/favicon.ico"
+					}
+				},
+				"mainEntityOfPage": {
+					"@type": "WebPage",
+					"@id": "https://patrickzipf.com//zipfsgiving"
+				},
+				"image": [
+					"https://patrickzipf.com/assets/images_out/zipfsgiving-1600-afe3cad3a.png"
+				]
+			}
+		</script>
 	</head>
 
 	<body class="layout-post">
@@ -174,17 +208,6 @@
 
 		<div class="site-content">
 			<div class="container">
-				<!-- Site Title
-================================================== -->
-				<!--
-<div class="mainheading">
-    <h1 class="sitetitle">PatrickZipf.com</h1>
-    <p class="lead">
-        A Patrick Zipf production!
-    </p>
-</div>
--->
-
 				<!-- Content
 ================================================== -->
 				<main class="main-content">
@@ -233,7 +256,7 @@
 							<!-- Post -->
 
 							<div class="col-md-9 flex-first flex-md-unordered">
-								<article itemscope itemtype="http://schema.org/BlogPosting">
+								<article itemscope itemtype="https://schema.org/BlogPosting">
 									<div class="mainheading">
 										<header>
 											<!-- Post Title -->
@@ -267,21 +290,21 @@
 
 									<img
 										class="featured-image img-fluid lazyimg"
+										itemprop="image"
 										src="/assets/images_out/zipfsgiving-800-afe3cad3a.png"
 										alt="Zipfsgiving"
 										srcset="
-											/assets/images_out/zipfsgiving-200-afe3cad3a.png   200w,
 											/assets/images_out/zipfsgiving-400-afe3cad3a.png   400w,
+											/assets/images_out/zipfsgiving-600-afe3cad3a.png   600w,
 											/assets/images_out/zipfsgiving-800-afe3cad3a.png   800w,
-											/assets/images_out/zipfsgiving-1600-afe3cad3a.png 1600w,
-											/assets/images_out/zipfsgiving-1792-afe3cad3a.png 1792w
+											/assets/images_out/zipfsgiving-1000-afe3cad3a.png 1000w
 										"
 									/>
 
 									<!-- End Featured Image -->
 
 									<!-- Post Content -->
-									<div class="article-post">
+									<div class="article-post" itemprop="articleBody">
 										<!-- Toc if any -->
 
 										<!-- End Toc -->
@@ -409,13 +432,14 @@
 									</footer>
 									<!-- Post Categories -->
 									<div class="after-post-cats">
+										<h4>
+											<small><a href="/category">Categories:</a></small>
+										</h4>
 										<ul class="tags mb-4">
-											<h4><small>Categories:</small></h4>
-
 											<li>
 												<a
 													class="smoothscroll btn-secondary"
-													href="/category/family"
+													href="/category/family/"
 													>family</a
 												>
 											</li>
@@ -423,7 +447,7 @@
 											<li>
 												<a
 													class="smoothscroll btn-secondary"
-													href="/category/friends"
+													href="/category/friends/"
 													>friends</a
 												>
 											</li>
@@ -431,7 +455,7 @@
 											<li>
 												<a
 													class="smoothscroll btn-secondary"
-													href="/category/holiday"
+													href="/category/holiday/"
 													>holiday</a
 												>
 											</li>
@@ -476,10 +500,6 @@
 
 					<!--End Comments
 ================================================== -->
-
-					<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
-================================================== -->
 				</main>
 			</div>
 
@@ -497,57 +517,57 @@ https://search.google.com/structured-data/testing-tool/u/0/
 						</div>
 					</div>
 					<div class="col-md-8 p-5 align-self-center text-center">
-						<a class="mt-1 mb-1" href="/category/ai">ai (1)</a>
+						<a class="mt-1 mb-1" href="/category/ai/">ai (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/birthday">birthday (1)</a>
+						<a class="mt-1 mb-1" href="/category/birthday/">birthday (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/bmw">bmw (1)</a>
+						<a class="mt-1 mb-1" href="/category/bmw/">bmw (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/bourbon">bourbon (1)</a>
+						<a class="mt-1 mb-1" href="/category/bourbon/">bourbon (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/caht">caht (1)</a>
+						<a class="mt-1 mb-1" href="/category/caht/">caht (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/car">car (1)</a>
+						<a class="mt-1 mb-1" href="/category/car/">car (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/christmas">christmas (1)</a>
+						<a class="mt-1 mb-1" href="/category/christmas/">christmas (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/dragon">dragon (1)</a>
+						<a class="mt-1 mb-1" href="/category/dragon/">dragon (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/family">family (4)</a>
+						<a class="mt-1 mb-1" href="/category/family/">family (4)</a>
 
-						<a class="mt-1 mb-1" href="/category/fizz">fizz (1)</a>
+						<a class="mt-1 mb-1" href="/category/fizz/">fizz (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/friends">friends (4)</a>
+						<a class="mt-1 mb-1" href="/category/friends/">friends (4)</a>
 
-						<a class="mt-1 mb-1" href="/category/holiday">holiday (3)</a>
+						<a class="mt-1 mb-1" href="/category/holiday/">holiday (3)</a>
 
-						<a class="mt-1 mb-1" href="/category/math">math (1)</a>
+						<a class="mt-1 mb-1" href="/category/math/">math (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/motorsports"
+						<a class="mt-1 mb-1" href="/category/motorsports/"
 							>motorsports (1)</a
 						>
 
-						<a class="mt-1 mb-1" href="/category/patrickzipf"
+						<a class="mt-1 mb-1" href="/category/patrickzipf/"
 							>patrickzipf (2)</a
 						>
 
-						<a class="mt-1 mb-1" href="/category/photos">photos (2)</a>
+						<a class="mt-1 mb-1" href="/category/photos/">photos (2)</a>
 
-						<a class="mt-1 mb-1" href="/category/thanksgiving"
+						<a class="mt-1 mb-1" href="/category/thanksgiving/"
 							>thanksgiving (1)</a
 						>
 
-						<a class="mt-1 mb-1" href="/category/toce">toce (1)</a>
+						<a class="mt-1 mb-1" href="/category/toce/">toce (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/zipf">zipf (8)</a>
+						<a class="mt-1 mb-1" href="/category/zipf/">zipf (8)</a>
 
-						<a class="mt-1 mb-1" href="/category/zipfodemayo"
+						<a class="mt-1 mb-1" href="/category/zipfodemayo/"
 							>zipfodemayo (1)</a
 						>
 
-						<a class="mt-1 mb-1" href="/category/zipfsmas">zipfsmas (1)</a>
+						<a class="mt-1 mb-1" href="/category/zipfsmas/">zipfsmas (1)</a>
 
-						<a class="mt-1 mb-1" href="/category/zpf">zpf (1)</a>
+						<a class="mt-1 mb-1" href="/category/zpf/">zpf (1)</a>
 					</div>
 				</div>
 			</div>
