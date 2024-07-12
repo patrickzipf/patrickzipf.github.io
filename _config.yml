@@ -19,6 +19,8 @@ templatemessage: '<a target="_blank" href="#">Got Ya Productions</a>'
 authors:
   chris:
     name: Patrick Zipf
+    first_name: Patrick
+    last_name: Zipf
     display_name: Patrick Zipf
     gravatar: 
     email: web@patrickzipf.com
