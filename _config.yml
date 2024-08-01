@@ -4,7 +4,7 @@ name: "PatrickZipf.com"
 title: "The home page of Patrick Zipf! "
 description: "A Patrick Zipf production!"
 logo: 'assets/Logo.png'
-favicon: 'assets/favicon.ico'
+favicon: '/assets/favicon.ico'
 baseurl: ""
 google_analytics: 'G-HC6DSPCCK0' # configured for Google Analytics 4 MEASUREMENT ID
 # disqus: 
